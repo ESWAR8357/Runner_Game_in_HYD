@@ -1,0 +1,6 @@
+{
+  "name": "Balakrishna Runner – Hyderabad Rush",
+  "description": "High-octane 3D endless runner game featuring mass hero Balakrishna dashing through the iconic streets, flyovers, and landmarks of Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
